@@ -14,7 +14,7 @@ Pomodoro App es una aplicación móvil desarrollada en React Native que implemen
 
 ### Requisitos previos
 - Node.js
-- React Native CLI
+- Expo
 - Un emulador de dispositivo móvil o un dispositivo físico para probar la aplicación.
 
 ### Pasos de instalación
